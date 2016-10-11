@@ -1,9 +1,10 @@
-# Lesson7: Plotting in Python
+# Lesson 7: Plotting in Python
 
 ## Contents
 - Plotting options in Python (w/ nice examples)
 - Anatomy of a plot
 - Basics of plotting with Matplotlib
+  - Saving a plot
   - Task 1 - Visit Matplotlib gallery, reproduce and modify plot
 - Connecting Matplotlib with plotly
 
