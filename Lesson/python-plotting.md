@@ -161,7 +161,7 @@ Here, the *x* range would be changed to 0-π and the *y* range would be 0-1.
 This brings up a familiar file saving window.
 Matplotlib plots can be saved in a number of useful file formats, including JPEG, PNG, PDF, and EPS, as you can see below.
 
-    ![Plot file types](../img/plot-file-types.png)
+    ![Plot file types](../img/plot-file-types.png)<br/>
 PNG is a nice format for raster images, and EPS is probably easiest to use for vector graphics.
 
 ### Task 2: Ploting only part of a dataset
