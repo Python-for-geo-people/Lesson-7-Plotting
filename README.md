@@ -5,10 +5,7 @@ During this week, we will introduce you to different modules that can be used to
 ## Contents
 - [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-python)
 - [Anatomy of a plot](Lesson/python-plotting.md#anatomy-of-a-plot)
-
-- Basics of plotting with Matplotlib - Dave
-  - Saving a plot
-  - Task 1 - Visit Matplotlib gallery, reproduce and modify plot: [Matplotlib gallery](http://matplotlib.org/gallery.html)
+- [Basics of plotting with Matplotlib](Lesson/python-plotting.md#plotting-in-python-with-matplotlib)
 - Connecting Matplotlib with plotly - Dave
 - [Exercise 7](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
 
