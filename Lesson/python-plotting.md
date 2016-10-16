@@ -158,5 +158,5 @@ Here, the *x* range would be changed to 0-π and the *y* range would be 0-1.
 
 ### Task 2: Ploting only part of a dataset
 For this task, you should use the values for arrays `x` and `y` calculated earlier in this part of the lesson, and use `plt.axis()` to limit the plot to the following *x* and *y* ranges: *x* = 0 to π, *y* = 0.0 to 1.0.
-What do you expect to see in this case?
-**Note**: In order to get the plot to display properly, you will need to first type in the `plt.plot()` command, then `plt.axis()`, and finally `plt.show()`.
+- What do you expect to see in this case?
+- **Note**: In order to get the plot to display properly, you will need to first type in the `plt.plot()` command, then `plt.axis()`, and finally `plt.show()`.
