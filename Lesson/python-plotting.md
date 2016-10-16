@@ -172,7 +172,8 @@ In most cases, when we would like to create some more complicated type of plot, 
 The great thing about the [Matplotlib plot gallery](http://matplotlib.org/gallery.html) is that not only can you find example plots there, but you can also find the Python commands used to create the plots.
 This makes it easy to take a working example from the gallery and modify it for your use.
 
-![The matplotlib gallery](../img/matplotlib-gallery.png)
+![The matplotlib gallery](../img/matplotlib-gallery.png)<br/>
+*The matplotlib plot gallery*
 
 Your job in this task is to (1) visit the [Matplotlib plot gallery](http://matplotlib.org/gallery.html), (2) find an interesting plot and click on it, (3) copy the code you find listed beneath the plot on the page that loads, and (4) paste that into an IPython window or the IPython console in **Spyder** to reproduce the plot.
 After you have reproduced the plot, you are welcome to try to make a small change to the plot commands and see what happens.
