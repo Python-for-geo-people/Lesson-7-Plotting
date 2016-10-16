@@ -62,7 +62,7 @@ it easier to find help and information from the internet when you start doing or
 
 Following figure illustrates different elements of a basic line chart:
 
- <img src="https://github.com/Python-for-geo-people/Lesson-7-Plotting/blob/master/img/basic-elements-of-plot.png" width="600"/>
+ <img src="https://github.com/Python-for-geo-people/Lesson-7-Plotting/blob/master/img/basic-elements-of-plot.png" width="700"/>
 
 
 ### Common terms when doing plotting
