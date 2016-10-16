@@ -1,9 +1,9 @@
 # Plotting in Python
 
-## Topics
+### Topics
 
 1. [Overview of useful modules for plotting in Python](#overview-of-useful-modules-for-plotting-in-Python)
-2. [Anatomy of a plot](anatomy-of-a-plot)
+2. [Anatomy of a plot](#anatomy-of-a-plot)
 3. [Plotting in Python with Matplotlib](#plotting-in-python-with-matplotlib)
 
 ## Overview of useful modules for plotting in Python
@@ -64,23 +64,23 @@ Following figure illustrates different elements of a basic line chart:
 
  <img src="https://github.com/Python-for-geo-people/Lesson-7-Plotting/blob/master/img/basic-elements-of-plot.png" width="800"/> 
 
-
 ### Common terms when doing plotting
 
-Note: these terms may vary a little bit depending on the plotting library that you use. These are the most typical terms used in Matplotlib. 
+Note: these terms may vary a little bit depending on the plotting library that you use. These are few typical terms used when doing plotting in Matplotlib. 
 
- - Axis (x, y, z)
- - Label
- - Symbol
- - Linestyle - The pre
- - Linewidth
- - Alpha - transparency
- - Title
- - Tick(s)
- - Annotation
- - Data limit(s) or range
- - Padding
-
+ - **axis** - Axis of the graph that are typically x, y and z (for 3D plots)
+ - **title** - Title of the whole plot.
+ - **label** - Name for to the whole axis.
+ - **legend** - Legend for the plot.
+ - **tick label** - Refers to the text or values that are represented on the axis.
+ - **symbol** - Symbol for data point(s) (on a scatter plot) that can be presented with different symbols.
+ - **size** - Size of e.g. a point on a scatter plot, also used for referring to the text sizes on a plot.
+ - **linestyle** - The style how the line should be drawn. Can be e.g. solid or dashed.
+ - **linewidth** - The width of a line in a plot.
+ - **alpha** - Transparency level of a filled element in a plot (values between 0.0 (fully transparent) to 1.0 (no trasnparency)).
+ - **tick(s)** - Refers to the tick marks on a plot.
+ - **annotation** - Refers to the added text on a plot.
+ - **padding** - The distance between a (axis/tick) label and the axis.
 
 ## Plotting in Python with matplotlib
 Though there are many options for plotting data in Python, we will be using [matplotlib](http://matplotlib.org/).
@@ -135,7 +135,7 @@ The plot is not displayed on the screen until you type `plt.show()`.
     ```
 This should produce the plot below.
 
-    ![Fancy sine curve](img/sine-curve-improved.png)
+![Fancy sine curve](img/sine-curve-improved.png)
 
 Now we see our sine curve as a red dashed line with circles showing the points along the line.
 This comes from the additional `ro--` used with `plt.plot()`.
@@ -145,16 +145,16 @@ Better yet, check out the [documentation for `plt.plot()` online](http://matplot
 We have also added a title and axis labels, but their use is straightforward.
 5. Adding text to plots can be done using `plt.text()`.
 
-    ```python
-    >>> plt.text(0.5, 0.5, 'Here is some text')
-    ```
+```python
+>>> plt.text(0.5, 0.5, 'Here is some text')
+```
 This will display the text "Here is some text" at the location *x* = 0.5, *y* = 0.5 on the plot.
 You would need to type `plt.show()` again to display the plot.
 6. Changing the plot axes can be done using the `plt.axis()` function.
 
-    ```python
-    >>> plt.axis([0.0, np.pi, -0.5, 1.0])
-    ```
+```python
+>>> plt.axis([0.0, np.pi, -0.5, 1.0])
+```
 The format for `plt.axis()` is `[xmin, xmax, ymin, ymax]` enclosed in square brackets (i.e., a Python list).
 Here, the *x* range would be changed to 0-π and the *y* range would be 0-1.
 
