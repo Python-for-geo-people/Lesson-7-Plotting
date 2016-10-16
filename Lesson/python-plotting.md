@@ -155,6 +155,14 @@ You would need to type `plt.show()` again to display the plot.
     ```
 The format for `plt.axis()` is `[xmin, xmax, ymin, ymax]` enclosed in square brackets (i.e., a Python list).
 Here, the *x* range would be changed to 0-π and the *y* range would be 0-1.
+7. Saving plots created using matplotlib done several ways, but the easiest is simply to click on the disk icon on the pyplot window when a plot is displayed, as shown below.
+
+    ![Saving a plot](../img/saving-plot.png)<br/>
+This brings up a familiar file saving window.
+Matplotlib plots can be saved in a number of useful file formats, including JPEG, PNG, PDF, and EPS, as you can see below.
+
+    ![Plot file types](../img/plot-file-types.png)
+PNG is a nice format for raster images, and EPS is probably easiest to use for vector graphics.
 
 ### Task 2: Ploting only part of a dataset
 For this task, you should use the values for arrays `x` and `y` calculated earlier in this part of the lesson, and use `plt.axis()` to limit the plot to the following *x* and *y* ranges: *x* = 0 to π, *y* = 0.0 to 1.0.
