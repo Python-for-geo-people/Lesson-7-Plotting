@@ -2,16 +2,13 @@
 
 During this week, we will introduce you to different modules that can be used to make data plots in Python and learn how to do basic plotting using a module called [matplotlib](http://matplotlib.org/). 
 
-## Contents
-- [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-python)
-- [Anatomy of a plot](Lesson/python-plotting.md#anatomy-of-a-plot)
-- [Basics of plotting with Matplotlib](Lesson/python-plotting.md#plotting-in-python-with-matplotlib)
-- Connecting Matplotlib with plotly - Dave
-- [Exercise 7](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
-
 ## Lesson overview
 
-1. 
+1. [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-python)
+2. [Anatomy of a plot](Lesson/python-plotting.md#anatomy-of-a-plot)
+3. [Basics of plotting with Matplotlib](Lesson/python-plotting.md#plotting-in-python-with-matplotlib)
+4. [Connecting Matplotlib with plotly](Lesson/using-plotly.md)
+5. [Exercise 7](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
 
 ## Resources
 - Past lesson materials
