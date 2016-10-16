@@ -9,6 +9,7 @@ During this week, we will introduce you to different modules that can be used to
 3. [Basics of plotting with Matplotlib](Lesson/python-plotting.md#plotting-in-python-with-matplotlib)
 4. [Connecting Matplotlib with plotly](Lesson/using-plotly.md)
 5. [Exercise 7](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
+6. [Hints for Exercise 7](Lesson/hints.md)
 
 ## Resources
 - Past lesson materials
