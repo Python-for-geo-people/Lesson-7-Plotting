@@ -11,6 +11,7 @@ During this week, we will introduce to you different modules that can be used to
   - Saving a plot
   - Task 1 - Visit Matplotlib gallery, reproduce and modify plot: [Matplotlib gallery](http://matplotlib.org/gallery.html)
 - Connecting Matplotlib with plotly - Dave
+- [Exercise 7](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
 
 ## Lesson overview
 
