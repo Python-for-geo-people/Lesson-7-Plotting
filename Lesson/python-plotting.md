@@ -3,6 +3,7 @@
 ### Topics
 
 1. [Overview of useful modules for plotting in Python](#overview-of-useful-modules-for-plotting-in-Python)
+  - [Task 1: Learn about the Python plotting options](#task1)
 2. [Anatomy of a plot](#anatomy-of-a-plot)
 3. [Plotting in Python with Matplotlib](#plotting-in-python-with-matplotlib)
   - [Task 2: Plotting like the "pros"](#task-2-plotting-like-the-pros)
@@ -23,7 +24,7 @@ Python has many nice and useful modules that can be used for plotting, such as:
      - **HoloViews** is designed for basic plotting ([see tutorial](http://holoviews.org/Tutorials/index.html) and [examples](http://holoviews.org/Examples/index.html))
      - **GeoViews** is designed for creating nice and interactive maps ([see gallery](https://www.continuum.io/blog/developer-blog/introducing-geoviews)).
 
-**Task**: _Explore the galleries and examples of different visualization libraries to learn what's possible to do in Python._
+<a name="task1"></a>**Task 1**: _Explore the galleries and examples of different visualization libraries to learn what's possible to do in Python._
 
 As you can see from the examples, the plotting possibilities in Python are numerous and rich. Do you need to know them all? Of course not. Not even us do. 
 It is not even rational for trying to use them all, instead you should start by learning to use one of them that suits your needs and then later extend your
