@@ -3,7 +3,7 @@
 ### Topics
 
 1. [Overview of useful modules for plotting in Python](#overview-of-useful-modules-for-plotting-in-Python)
-2. [Anatomy of a plot](anatomy-of-a-plot)
+2. [Anatomy of a plot](#anatomy-of-a-plot)
 3. [Plotting in Python with Matplotlib](#plotting-in-python-with-matplotlib)
 
 ## Overview of useful modules for plotting in Python

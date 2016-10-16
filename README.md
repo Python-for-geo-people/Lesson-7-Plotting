@@ -1,8 +1,12 @@
 # Lesson 7: Plotting in Python
 
+During this week, we will introduce to you different modules that can be used to do plotting in Python and learn how to do basic plotting using a module called
+[Matplotlib](http://matplotlib.org/). 
+
 ## Contents
-- Plotting options in Python (w/ nice examples) - Henkka
-- Anatomy of a plot - Henkka
+- [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-Python)
+- [Anatomy of a plot](Lesson/python-plotting.md#anatomy-of-a-plot)
+
 - Basics of plotting with Matplotlib - Dave
   - Saving a plot
   - Task 1 - Visit Matplotlib gallery, reproduce and modify plot: [Matplotlib gallery](http://matplotlib.org/gallery.html)
