@@ -1,7 +1,6 @@
 # Lesson 7: Plotting in Python
 
-During this week, we will introduce to you different modules that can be used to do plotting in Python and learn how to do basic plotting using a module called
-[Matplotlib](http://matplotlib.org/). 
+During this week, we will introduce you to different modules that can be used to make data plots in Python and learn how to do basic plotting using a module called [matplotlib](http://matplotlib.org/). 
 
 ## Contents
 - [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-python)
