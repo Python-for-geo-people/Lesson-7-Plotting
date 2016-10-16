@@ -10,13 +10,13 @@
 
 Python has many nice and useful modules that can be used for plotting, such as:
   
-  - [Matplotlib](http://matplotlib.org/)  - _"the grand old man of Python plotting"_
-    - [Matplotlib Basemap](http://matplotlib.org/basemap/users/examples.html) - Matplotlib plugin for visualizing maps in Python
-    - [Seaborn](https://seaborn.github.io/) - High-level interface for drawing attractive statistical graphics that is built on top of Matplotlib ([see gallery](https://seaborn.github.io/examples/index.html))
-  - [Bokeh](http://bokeh.pydata.org/en/latest/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. ([see gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html)) 
-  - [Plotly](https://plot.ly/python/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. Some features are commercial. ([see gallery](https://plot.ly/python/#basic-charts))
-  - [ggplot](https://github.com/yhat/ggplot) - Familiar with doing plots in R using ggplot2? You can use ggplot in Python too! ([see examples](https://github.com/yhat/ggplot/blob/master/docs/Gallery.ipynb)
-  - [HoloViews](http://holoviews.org/) and [GeoViews](http://geo.holoviews.org/) - New! Let the data visualize itself. (see this [introductory video](https://www.youtube.com/watch?v=hNsR2H7Lrg0)) 
+  - [**Matplotlib**](http://matplotlib.org/)  - _"the grand old man of Python plotting"_
+    - [**Matplotlib Basemap**](http://matplotlib.org/basemap/users/examples.html) - Matplotlib plugin for visualizing maps in Python
+    - [**Seaborn**](https://seaborn.github.io/) - High-level interface for drawing attractive statistical graphics that is built on top of Matplotlib ([see gallery](https://seaborn.github.io/examples/index.html))
+  - [**Bokeh**](http://bokeh.pydata.org/en/latest/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. ([see gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html)) 
+  - [**Plotly**](https://plot.ly/python/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. Some features are commercial. ([see gallery](https://plot.ly/python/#basic-charts))
+  - [**ggplot**](https://github.com/yhat/ggplot) - Familiar with doing plots in R using ggplot2? You can use ggplot in Python too! ([see examples](https://github.com/yhat/ggplot/blob/master/docs/Gallery.ipynb)
+  - [**HoloViews**](http://holoviews.org/) and [**GeoViews**](http://geo.holoviews.org/) - New! Let the data visualize itself. (see this [introductory video](https://www.youtube.com/watch?v=hNsR2H7Lrg0)) 
      - Modern and powerful visualization libraries built on top of **Matplotlib** and **Bokeh** that makes exploring and visualizing your data quicker than ever before.
      - **HoloViews** is designed for basic plotting ([see tutorial](http://holoviews.org/Tutorials/index.html) and [examples](http://holoviews.org/Examples/index.html))
      - **GeoViews** is designed for creating nice and interactive maps ([see gallery](https://www.continuum.io/blog/developer-blog/introducing-geoviews)).
