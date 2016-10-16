@@ -51,7 +51,9 @@ At this point you should be all set to start exporting plots to plotly.
 
     unique_url = py.plot_mpl(mpl_fig, filename="my first plotly plot")
     ```
-That's it.
+So that's it?
+Yes, all we need to do is `import` plotly and add a line where we use the plotly command to convert a matplotlib plot to plotly format and save to the plotly site (i.e., `py.plot_mpl()`).
+Nice!
 2. OK, so now let's look at a working example that can be saved to plotly.
 
     ```python
