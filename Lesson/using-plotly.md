@@ -2,9 +2,11 @@
 In the final part of this week's lesson, we will learn how to automatically export plots from [matplotlib](http://matplotlib.org/) to [plotly](https://plot.ly/), where they can be manipulated and shared online.
 
 ## Topics
-1. 
-2. 
-3. 
+1. [Plotly overview](#plotly-overview)
+2. [Configuring matplotlib to work with plotly](#configuring-matplotlib-to-work-with-plotly)
+3. [Saving your first matplotlib plot to plotly](#saving-your-first-matplotlib-plot-to-plotly)
+4. [Interacting with and modifying your plot on plotly](#interacting-with-and-modifying-your-plot-on-plotly)
+  - [Task 4: Editing a plotly plot](#task-4-editing-a-plotly-plot)
 
 ## Plotly overview
 ![The plot.ly website](../img/plotly-site.png)<br/>
@@ -90,5 +92,5 @@ To edit your plot, simply click on **Edit** above your plot on the right side, a
 There is a huge amount of editing that can be done for plotly plots.
 For the purposes of class today, we'll simply refer you to the [plotly tutorials](http://help.plot.ly/tutorials/) to learn how to edit plots.
 
-### Task 4 - Editing a plotly plot
+### Task 4: Editing a plotly plot
 For this task, simply take the test plot generated above, make 3 changes to its format, and save the updated plot to plotly.
