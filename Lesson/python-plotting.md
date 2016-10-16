@@ -1,3 +1,45 @@
+# Plotting in Python
+
+### Topics
+
+1. [Overview of useful modules for plotting in Python](#overview-of-useful-modules-for-plotting-in-Python)
+2. [Anatomy of a plot](anatomy-of-a-plot)
+3. [Plotting in Python with Matplotlib](#plotting-in-python-with-matplotlib)
+
+## Overview of useful modules for plotting in Python
+
+Python has many nice and useful modules that can be used for plotting, such as:
+  
+  - [Matplotlib](http://matplotlib.org/)  - _"the grand old man of Python plotting"_
+    - [Matplotlib Basemap](http://matplotlib.org/basemap/users/examples.html) - Matplotlib plugin for visualizing maps in Python
+    - [Seaborn](https://seaborn.github.io/) - High-level interface for drawing attractive statistical graphics that is built on top of Matplotlib ([see gallery](https://seaborn.github.io/examples/index.html))
+  - [Bokeh](http://bokeh.pydata.org/en/latest/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. ([see gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html)) 
+  - [Plotly](https://plot.ly/python/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. Some features are commercial. ([see gallery](https://plot.ly/python/#basic-charts))
+  - [ggplot](https://github.com/yhat/ggplot) - Familiar with doing plots in R using ggplot2? You can use ggplot in Python too! ([see examples](https://github.com/yhat/ggplot/blob/master/docs/Gallery.ipynb)
+  - [HoloViews](http://holoviews.org/) and [GeoViews](http://geo.holoviews.org/) - New! Let the data visualize itself. (see this [introductory video](https://www.youtube.com/watch?v=hNsR2H7Lrg0)) 
+     - Modern and powerful visualization libraries built on top of **Matplotlib** and **Bokeh** that makes exploring and visualizing your data quicker than ever before.
+     - **HoloViews** is designed for basic plotting ([see tutorial](http://holoviews.org/Tutorials/index.html) and [examples](http://holoviews.org/Examples/index.html))
+     - **GeoViews** is designed for creating nice and interactive maps ([see gallery](https://www.continuum.io/blog/developer-blog/introducing-geoviews)).
+
+**Task**: _Explore the galleries and examples of different visualization libraries to learn what's possible to do in Python._
+
+As you can see from the examples, the plotting possibilities in Python are numerous and rich. Do you need to know them all? Of course not. Not even us do. 
+It is not even rational for trying to use them all, instead you should start by learning to use one of them that suits your needs and then later extend your
+knowledge and skills to other visualizing libraries when necessary. In our courses, we will be start our plotting experiments with Matplotlib and Plotly that 
+makes it possible to store and show our interactive plots in the web. 
+
+*Later, in the Automating GIS processes -course, we will be learning a little bit of Bokeh as well.* 
+
+**Pro -tip**: for doing interactive visualizations in Python, it can be extremely useful to use a specific software called 
+**[Jupyter](https://jupyter.readthedocs.io/en/latest/index.html#)** that is extensively used nowadays for documenting, presenting and 
+visualizing interactive plots in Python using specific [Notebooks](https://tmp58.tmpnb.org/user/JfCwgSeJpZUg/notebooks/Welcome%20to%20Python.ipynb). 
+Jupyter Notebook is also installed in our computer instance. 
+
+## Anatomy of a plot
+
+Before starting to 
+
+
 ## Plotting in Python with Matplotlib
 Python has a nice plotting library called Matplotlib, which is designed to provide MATLAB-like plotting in Python.
 
