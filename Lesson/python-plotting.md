@@ -11,7 +11,7 @@
 Python has many nice and useful modules that can be used for plotting, such as:
   
   - [**Matplotlib**](http://matplotlib.org/)  - _"the grand old man of Python plotting"_
-    - [**Matplotlib Basemap**](http://matplotlib.org/basemap/users/examples.html) - Matplotlib plugin for visualizing maps in Python
+    - [**Matplotlib Basemap**](http://matplotlib.org/basemap/index.html) - Matplotlib plugin for visualizing maps in Python ([see gallery](http://matplotlib.org/basemap/users/examples.html)
     - [**Seaborn**](https://seaborn.github.io/) - High-level interface for drawing attractive statistical graphics that is built on top of Matplotlib ([see gallery](https://seaborn.github.io/examples/index.html))
   - [**Bokeh**](http://bokeh.pydata.org/en/latest/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. ([see gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html)) 
   - [**Plotly**](https://plot.ly/python/) - Modern plotting library for static / interactive web-based plots such as graphs, maps, charts etc. Some features are commercial. ([see gallery](https://plot.ly/python/#basic-charts))
