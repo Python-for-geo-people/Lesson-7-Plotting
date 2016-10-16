@@ -164,7 +164,17 @@ Matplotlib plots can be saved in a number of useful file formats, including JPEG
     ![Plot file types](../img/plot-file-types.png)<br/>
 PNG is a nice format for raster images, and EPS is probably easiest to use for vector graphics.
 
-### Task 2: Ploting only part of a dataset
+### Task 2: Plotting like the "pros"
+We're only introducing a tiny amount of what can be done with pyplot.
+In most cases, when we would like to create some more complicated type of plot, we would search using [Google](https://www.google.fi) or visit the [Matplotlib plot gallery](http://matplotlib.org/gallery.html).
+The great thing about the [Matplotlib plot gallery](http://matplotlib.org/gallery.html) is that not only can you find example plots there, but you can also find the Python commands used to create the plots.
+This makes it easy to take a working example from the gallery and modify it for your use.
+
+Your job in this task is to (1) visit the [Matplotlib plot gallery](http://matplotlib.org/gallery.html), (2) find an interesting plot and click on it, (3) copy the code you find listed beneath the plot on the page that loads, and (4) paste that into an IPython window or the IPython console in **Spyder** to reproduce the plot.
+After you have reproduced the plot, you are welcome to try to make a small change to the plot commands and see what happens.
+For this, it may be easiest to save a copy of the commands in a `.py` script file that you can edit and run.
+
+### Task 3: Ploting only part of a dataset
 For this task, you should use the values for arrays `x` and `y` calculated earlier in this part of the lesson, and use `plt.axis()` to limit the plot to the following *x* and *y* ranges: *x* = 0 to π, *y* = 0.0 to 1.0.
 - What do you expect to see in this case?
 - **Note**: In order to get the plot to display properly, you will need to first type in the `plt.plot()` command, then `plt.axis()`, and finally `plt.show()`.
