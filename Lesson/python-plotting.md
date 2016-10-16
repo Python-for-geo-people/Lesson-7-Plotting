@@ -116,7 +116,7 @@ As you might guess, `np.sin()` simply calculates the value of the sine function 
     ```
 This should produce a plot like the one below.
 
-    ![Sine curve from zero to two pi](../img/sine-curve.png)
+    ![Sine curve from zero to two pi](../img/sine-curve.png)<br/>
 OK, so what happened here?
 First, it should be pretty obvious that `plt.plot()` is a function in pyplot that produces a simple x-y plot.
 However, just like most variables in Python, creating the plot simply stores the information about the plot in memory.
@@ -134,7 +134,7 @@ The plot is not displayed on the screen until you type `plt.show()`.
     ```
 This should produce the plot below.
 
-    ![Fancy sine curve](../img/sine-curve-improved.png)
+    ![Fancy sine curve](../img/sine-curve-improved.png)<br/>
 Now we see our sine curve as a red dashed line with circles showing the points along the line.
 This comes from the additional `ro--` used with `plt.plot()`.
 In this case, `r` tells the `plt.plot()` function to use red color, `o` tells it to show circles at the points, and `--` says to use a dashed line.
@@ -143,16 +143,16 @@ Better yet, check out the [documentation for `plt.plot()` online](http://matplot
 We have also added a title and axis labels, but their use is straightforward.
 5. Adding text to plots can be done using `plt.text()`.
 
-```python
->>> plt.text(0.5, 0.5, 'Here is some text')
-```
+    ```python
+    >>> plt.text(0.5, 0.5, 'Here is some text')
+    ```
 This will display the text "Here is some text" at the location *x* = 0.5, *y* = 0.5 on the plot.
 You would need to type `plt.show()` again to display the plot.
 6. Changing the plot axes can be done using the `plt.axis()` function.
 
-```python
->>> plt.axis([0.0, np.pi, -0.5, 1.0])
-```
+    ```python
+    >>> plt.axis([0.0, np.pi, -0.5, 1.0])
+    ```
 The format for `plt.axis()` is `[xmin, xmax, ymin, ymax]` enclosed in square brackets (i.e., a Python list).
 Here, the *x* range would be changed to 0-π and the *y* range would be 0-1.
 
