@@ -64,23 +64,23 @@ Following figure illustrates different elements of a basic line chart:
 
  <img src="https://github.com/Python-for-geo-people/Lesson-7-Plotting/blob/master/img/basic-elements-of-plot.png" width="800"/> 
 
-
 ### Common terms when doing plotting
 
-Note: these terms may vary a little bit depending on the plotting library that you use. These are the most typical terms used in Matplotlib. 
+Note: these terms may vary a little bit depending on the plotting library that you use. These are few typical terms used when doing plotting in Matplotlib. 
 
- - Axis (x, y, z)
- - Label
- - Symbol
- - Linestyle - The pre
- - Linewidth
- - Alpha - transparency
- - Title
- - Tick(s)
- - Annotation
- - Data limit(s) or range
- - Padding
-
+ - **axis** - Axis of the graph that are typically x, y and z (for 3D plots)
+ - **title** - Title of the whole plot.
+ - **label** - Name for to the whole axis.
+ - **legend** - Legend for the plot.
+ - **tick label** - Refers to the text or values that are represented on the axis.
+ - **symbol** - Symbol for data point(s) (on a scatter plot) that can be presented with different symbols.
+ - **size** - Size of e.g. a point on a scatter plot, also used for referring to the text sizes on a plot.
+ - **linestyle** - The style how the line should be drawn. Can be e.g. solid or dashed.
+ - **linewidth** - The width of a line in a plot.
+ - **alpha** - Transparency level of a filled element in a plot (values between 0.0 (fully transparent) to 1.0 (no trasnparency)).
+ - **tick(s)** - Refers to the tick marks on a plot.
+ - **annotation** - Refers to the added text on a plot.
+ - **padding** - The distance between a (axis/tick) label and the axis.
 
 ## Plotting in Python with Matplotlib
 Python has a nice plotting library called Matplotlib, which is designed to provide MATLAB-like plotting in Python.
