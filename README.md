@@ -4,7 +4,7 @@ During this week, we will introduce to you different modules that can be used to
 [Matplotlib](http://matplotlib.org/). 
 
 ## Contents
-- [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-Python)
+- [Overview of useful modules for plotting in Python](Lesson/python-plotting.md#overview-of-useful-modules-for-plotting-in-python)
 - [Anatomy of a plot](Lesson/python-plotting.md#anatomy-of-a-plot)
 
 - Basics of plotting with Matplotlib - Dave
