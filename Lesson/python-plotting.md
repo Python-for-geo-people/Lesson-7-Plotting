@@ -5,6 +5,8 @@
 1. [Overview of useful modules for plotting in Python](#overview-of-useful-modules-for-plotting-in-Python)
 2. [Anatomy of a plot](#anatomy-of-a-plot)
 3. [Plotting in Python with Matplotlib](#plotting-in-python-with-matplotlib)
+  - [Task 2: Plotting like the "pros"](#task-2-plotting-like-the-pros)
+  - [Task 3: Plotting only part of a dataset](#task-3-plotting-only-part-of-a-dataset)
 
 ## Overview of useful modules for plotting in Python
 
@@ -174,7 +176,7 @@ Your job in this task is to (1) visit the [Matplotlib plot gallery](http://matpl
 After you have reproduced the plot, you are welcome to try to make a small change to the plot commands and see what happens.
 For this, it may be easiest to save a copy of the commands in a `.py` script file that you can edit and run.
 
-### Task 3: Ploting only part of a dataset
+### Task 3: Plotting only part of a dataset
 For this task, you should use the values for arrays `x` and `y` calculated earlier in this part of the lesson, and use `plt.axis()` to limit the plot to the following *x* and *y* ranges: *x* = 0 to π, *y* = 0.0 to 1.0.
 - What do you expect to see in this case?
 - **Note**: In order to get the plot to display properly, you will need to first type in the `plt.plot()` command, then `plt.axis()`, and finally `plt.show()`.
