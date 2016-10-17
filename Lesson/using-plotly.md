@@ -23,7 +23,7 @@ We're of the opinion that web-based interactive data is the future, and fortunat
 ## Configuring matplotlib to work with plotly
 The Plotly for Matplotlib modules are already installed on the computer instances for the course, but in order to be able to have plots in matplotlib automatically be tranferred to plotly, you need to have a special "API key" that connects your computer to your plotly account.
 
-1. You can find your personal API key by going to the [plotly API settings page](). You will be asked to log in to access this page.
+1. You can find your personal API key by going to the [plotly API settings page](https://plot.ly/settings/api). You will be asked to log in to access this page.
 2. After you have logged in, you should see the API settings page, which includes a value for your API key as shown in the image below.
 
     ![The plotly API settings page](../img/plotly-api-key.png)<br/>
