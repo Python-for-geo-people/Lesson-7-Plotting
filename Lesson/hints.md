@@ -99,10 +99,10 @@ For that task we have provided example data files produced by Exercises 5 and 6.
 For these data files, the data starts at 1940 and ends at 2015, which simply allows us to see whether you've used your own data file you produced, or the example data files.
 Otherwise, they should be identical to the expected results from Exercises 5 and 6.
 Links to the files are below.
-  - [Summer temperatures from Exercise 5](summer-avg-temps-ex5.csv)
-  - [Summer temperatures from Exercise 6](summer-avg-temps-ex6.csv)
-  - [Winter temperatures from Exercise 5](winter-avg-temps-ex5.csv)
-  - [Winter temperatures from Exercise 6](winter-avg-temps-ex6.csv)
+  - [Summer temperatures from Exercise 5](../Data/summer-avg-temps-ex5.csv)
+  - [Summer temperatures from Exercise 6](../Data/summer-avg-temps-ex6.csv)
+  - [Winter temperatures from Exercise 5](../Data/winter-avg-temps-ex5.csv)
+  - [Winter temperatures from Exercise 6](../Data/winter-avg-temps-ex6.csv)
 - **Using `linregress()`**
 - **Modifying the axis ranges**
 - **Useful links from this week's lesson**
