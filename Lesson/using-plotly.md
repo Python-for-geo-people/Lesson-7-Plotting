@@ -94,3 +94,8 @@ For the purposes of class today, we'll simply refer you to the [plotly tutorials
 
 ### Task 4: Editing a plotly plot
 For this task, simply take the test plot generated above, make 3 changes to its format, and save the updated plot to plotly.
+
+## 
+**Next**: [Exercise 7: Plotting with Python](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)<br/>
+**Home**: [Lesson 7 main page](https://github.com/Python-for-geo-people/Lesson-7-Plotting)<br/>
+**Previous**: [Plotting in Python, anatomy of a plot, Plotting with Matplotlib](python-plotting.md)
