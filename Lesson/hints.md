@@ -107,3 +107,6 @@ Links to the files are below.
 - **Modifying the axis ranges**
 - **Useful links from this week's lesson**
 
+## 
+**Home**: [Lesson 7 main page](https://github.com/Python-for-geo-people/Lesson-7-Plotting)<br/>
+**Previous**: [Exercise 7: Plotting with Python](https://classroom.github.com/assignment-invitations/54ad87560677b78169f1c18717bb312e)
